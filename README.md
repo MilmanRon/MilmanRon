@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ron Milman
 
-<!--
-**MilmanRon/MilmanRon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer | Angular | ASP.NET
 
-Here are some ideas to get you started:
+I'm a passionate full stack developer with a focus on building modern web applications using Angular and ASP.NET. Recently completed an intensive coding bootcamp and currently seeking opportunities to contribute my skills to innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- **Frontend**: Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
+- **Backend**: ASP.NET Core, C#, RESTful APIs
+- **Database**: SQL Server, Entity Framework
+- **Tools**: Git, Visual Studio, VS Code, Postman
+- **Other**: Responsive Design, MVC Architecture
+
+## 🌱 Currently...
+
+- Actively enhancing my full-stack project with new features and best practices
+- Deepening my knowledge of Angular performance optimization techniques
+
+## 🚀 Featured Project
+
+### [Online Learning Platform](https://github.com/MilmanRon/OnlineLearningPlatform)
+A comprehensive full-stack web application built with Angular and ASP.NET Core that allows instructors to create and manage courses while enabling students to enroll, access lessons, and track their learning progress. Features include:
+
+- Custom JWT authentication and role-based authorization
+- Responsive UI components built with Angular and Bootstrap CSS framework
+- Detailed course catalog page showing enrollment status and learning progress
+- RESTful API endpoints for course management and student enrollment
+- Relational database structure implemented with SQL Server and Entity Framework
+
+## 📫 Connect With Me
+
+- LinkedIn: [Ron Milman](https://linkedin.com/in/milmanron)
+- Email: milmanron@gmail.com
+
+## 📊 GitHub Stats
+
+![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilmanRon&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MilmanRon&layout=compact&theme=tokyonight)
+
+---
+
+💼 *Open to job opportunities in full stack development, particularly with Angular and ASP.NET technologies.*
