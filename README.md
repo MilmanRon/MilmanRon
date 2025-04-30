@@ -37,6 +37,3 @@ A comprehensive full-stack web application built with Angular and ASP.NET Core t
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MilmanRon&layout=compact&theme=tokyonight)
 
----
-
-💼 *Open to job opportunities in full stack development, particularly with Angular and ASP.NET technologies.*
