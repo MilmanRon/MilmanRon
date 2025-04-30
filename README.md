@@ -2,8 +2,6 @@
 
 ## Full Stack Web Developer | Angular | ASP.NET
 
-I'm a passionate full stack developer with a focus on building modern web applications using Angular and ASP.NET. Recently completed an intensive coding bootcamp and currently seeking opportunities to contribute my skills to innovative projects.
-
 ## 💻 Tech Stack
 
 - **Frontend**: Angular, TypeScript, JavaScript, HTML5, CSS3, Bootstrap
