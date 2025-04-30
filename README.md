@@ -33,7 +33,5 @@ A comprehensive full-stack web application built with Angular and ASP.NET Core t
 
 ## 📊 GitHub Stats
 
-![Ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilmanRon&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MilmanRon&layout=compact&theme=tokyonight)
 
