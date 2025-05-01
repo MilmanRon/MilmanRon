@@ -10,11 +10,6 @@
 - **Tools**: Git, Visual Studio, VS Code, Postman
 - **Other**: Responsive Design, MVC Architecture
 
-## 🌱 Currently...
-
-- Actively enhancing my full-stack project with new features and best practices
-- Deepening my knowledge of Angular performance optimization techniques
-
 ## 🚀 Featured Project
 
 ### [Online Learning Platform](https://github.com/MilmanRon/OnlineLearningPlatform)
